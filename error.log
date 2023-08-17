@@ -1,0 +1,1 @@
+[Sun Aug 06 11:23:40.145090 2023] [core:error] [pid 3702] (13)Permission denied: [client 127.0.0.1:58626] AH00035: access to / denied (filesystem path '/home/yu/gerast') because search permissions are missing on a component of the path
